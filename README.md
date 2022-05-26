@@ -10,7 +10,7 @@ Example: http://localhost:3001/sendNumber
 - Body: {"number": 2}
 - Response: {"number": 2, "type": "even"}
 - Body: {"number": 3}
-- Response: {"number": 2, "type": "odd"}
+- Response: {"number": 3, "type": "odd"}
 
 ## Currently working on
 
